@@ -1,0 +1,12 @@
+{
+  "name": "atividade-semana-01-backend",
+  "version": "1.0.0",
+  "description": "Atividade da Semana 01 de Desenvolvimento Back-End",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
